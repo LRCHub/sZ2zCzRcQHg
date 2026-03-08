@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "secret trip",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-08T12:16:24.311610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "secret trip",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_secret_trip_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "secret trip",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_secret_trip_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "secret trip",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_secret_trip_Reol.txt"
+    }
+  ]
+}
